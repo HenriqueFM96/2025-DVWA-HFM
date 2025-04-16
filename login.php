@@ -80,7 +80,7 @@ echo "<!DOCTYPE html>
 
 	<br />
 
-	<p><img src=\"" . DVWA_WEB_PAGE_TO_ROOT . "dvwa/images/login_logo.png\" /></p>
+	<p><img src=\"" . DVWA_WEB_PAGE_TO_ROOT . "dvwa/images/Cloud-Fabric-Ecosystem-white.png\" /></p>
 
 	<br />
 
